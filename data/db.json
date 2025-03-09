@@ -1,0 +1,40 @@
+{
+  "blogs": [
+    {
+      "title": "My Dev Top Tips",
+      "body": "Being a developer is an exciting and continuous learning journey. Over time, I’ve picked up valuable lessons that have improved my coding efficiency, problem-solving skills, and overall development approach. Whether you're just starting or looking to refine your skills, these tips will help you level up!\n\n1. **Write Clean and Readable Code**\nMessy code leads to confusion and technical debt. Follow best practices:\n- Use meaningful variable and function names.\n- Keep functions short and focused on a single task.\n- Add comments where necessary, but don’t overdo it.\n\n2. **Master Debugging Techniques**\nBugs are inevitable, but learning how to debug efficiently can save hours.\n- Use debugging tools (Chrome DevTools, VS Code Debugger).\n- Read error messages carefully—they often tell you exactly what’s wrong.\n- Console logging (`console.log()`) is great, but use breakpoints for deeper insights.\n\n3. **Version Control is Your Best Friend**\nNever underestimate the power of Git! Always:\n- Use meaningful commit messages.\n- Create branches for new features before merging into the main code.\n- Regularly push your changes to a remote repository (GitHub, GitLab).\n\n4. **Understand Data Structures & Algorithms**\nEfficient coding isn’t just about syntax—it’s about logic. Knowing how different algorithms and data structures work will help you write optimized code. Platforms like **LeetCode, CodeSignal, and GeeksforGeeks** can help sharpen these skills.",
+      "author": "Mario",
+      "id": "3"
+    },
+    {
+      "title": "The Future of AI in Cybersecurity",
+      "body": "AI is transforming the cybersecurity landscape by enhancing threat detection, automating responses, and improving risk management. With machine learning algorithms, security systems can now predict and prevent attacks in real time. However, as AI becomes more powerful, cybercriminals are also leveraging AI for malicious purposes. The battle between AI-driven security and AI-powered attacks is a key challenge for the future. Developers and security professionals must stay ahead by continuously learning and adapting to new threats.",
+      "author": "Bobby",
+      "id": "4"
+    },
+    {
+      "title": "Best Practices for Secure Coding",
+      "body": "Secure coding is an essential skill for every developer. Here are some best practices to follow:\n\n1. **Validate Input Data** – Prevent SQL injection, XSS, and other attacks by properly sanitizing and validating user input.\n2. **Use Secure Authentication** – Implement strong password policies and multi-factor authentication (MFA) to protect user accounts.\n3. **Encrypt Sensitive Data** – Use encryption algorithms like AES or RSA to secure stored and transmitted data.\n4. **Limit User Privileges** – Follow the principle of least privilege (PoLP) to minimize the risk of unauthorized access.\n5. **Regular Security Updates** – Keep your software and dependencies up to date to prevent vulnerabilities.\n\nBy integrating these security principles into your development workflow, you can build robust and secure applications.",
+      "author": "Yoshi",
+      "id": "5"
+    },
+    {
+      "id": "06cc",
+      "title": "My New Portfolio",
+      "author": "Sohel",
+      "body": "bhebvhkblkvblhsvblhsbvlhbvhlblshbvjhsabvjkhbaslvhbhlvlblabvakv\nhsvbvhbhjvbskhbvhbvjk\nkvbhksbvhkbshkv"
+    },
+    {
+      "id": "490c",
+      "title": "dev tips and tools",
+      "author": "Sohel",
+      "body": "jsjnjkdnvjln jlkndjk.v"
+    },
+    {
+      "id": "4691",
+      "title": "new blog Mario 3",
+      "author": "Mario",
+      "body": "vjfbhbslhblhsbflhbhfljhsvlhjjhgbsjhbvljhbglhvbglhbgkbvsj\nhjn hkbdvhbb,jhbvyhjb;ykbvhbhlblb;h\njhjgbhjbbmbd bnbg bmn nb"
+    }
+  ]
+}

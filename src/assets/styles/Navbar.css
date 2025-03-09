@@ -1,0 +1,52 @@
+/* Navbar Container */
+.navbar {
+  display: flex;
+  align-items: center;
+  margin: 0 auto;
+  margin-bottom: 1%;
+  padding: 5px 30px;
+  box-shadow:  0px 1px 1px rgba(223, 218, 218, 0.63);
+  border-radius: 10px;
+}
+
+/* Logo */
+.logo {
+  font-size: 1.8rem;
+  font-weight: bold;
+  color: #f1356d;
+}
+.navbar .nav-links {
+  margin-left: auto;
+}
+
+/* Navigation Links */
+.nav-links {
+  list-style: none;
+  margin-left: auto;
+  display: flex;
+  gap: 20px;
+
+}
+
+.nav-links li {
+  display: inline;
+  border-radius: 1px;
+
+}
+
+.nav-links a {
+  margin: 16px;
+  text-decoration: none;
+  font-size: 1rem;
+  transition: color 0.3s ease;
+}
+
+.nav-links a:hover {
+  color: #f1356d;
+}
+
+/* Call-To-Action (CTA) Button */
+.cta-button {
+  background-color: #ffdd57;
+  color: #333;
+}
